@@ -23,7 +23,7 @@ if [ $1 == "install" ]; then
  # set symlink
  sudo ln -sf /opt/discord/Discord /usr/bin/discord
 
- exho "$"
+ echo "$"
 fi
 
 # Add execute permission and set root user
